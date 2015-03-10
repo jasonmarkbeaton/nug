@@ -1,0 +1,46 @@
+/* Global Styles */
+.logo {
+  font-family: 'Montserrat', sans-serif;
+  color: #ff3c00;
+}
+
+/* Navigation */
+.navbar {
+  display: block;
+  background-color: white;
+  margin: none;
+}
+
+.navbar-list li{
+  display: inline-block;
+  padding: 10px;
+}
+
+.navbar-item {
+  padding: 10px;
+  background-color: white;
+  .navbar-item .right {
+    border-left: ;: 1px solid grey;
+  }
+  .navbar-item .left {
+    border-right: 1px solid grey;
+  }
+}
+
+.sub-navbar {
+  background-color: white;
+}
+
+/* Footer */
+footer {
+
+}
+
+/* Utilities */
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
