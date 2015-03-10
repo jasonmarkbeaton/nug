@@ -1280,3 +1280,843 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 12:33:47
 
 
 Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 12:33:47 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 12:51:01 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.3ms)
+  Rendered layouts/_mainFooter.html.erb (0.3ms)
+  Rendered pages/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 111ms (Views: 102.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 12:51:01 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 12:51:01 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 12:51:01 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 12:51:01 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 12:51:01 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 12:51:01 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 12:51:01 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 12:51:01 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 12:51:01 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 13:03:20 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.0ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 56ms (Views: 55.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 13:03:20 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 13:03:20 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 13:03:20 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 13:03:20 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 13:03:20 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 13:03:20 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 13:03:20 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 13:03:20 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 13:03:20 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:46:44 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.0ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 60ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:46:44 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:46:44 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:46:44 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:46:44 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:46:44 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:46:44 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:46:44 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:46:44 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:46:44 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:47:05 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.1ms)
+  Rendered layouts/_mainFooter.html.erb (0.1ms)
+  Rendered pages/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 78ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:47:05 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:47:05 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:47:05 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:47:05 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:47:05 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:47:05 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:47:05 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:47:05 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:47:05 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:47:21 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.3ms)
+  Rendered layouts/_mainFooter.html.erb (0.3ms)
+  Rendered pages/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 123ms (Views: 113.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:47:22 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:47:22 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:47:22 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:47:22 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:47:22 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:47:22 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:47:22 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:47:22 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:47:22 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:48:37 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.1ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 55ms (Views: 54.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:48:37 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:48:37 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:48:37 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:48:37 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:48:37 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:48:37 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:48:37 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:48:37 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:48:37 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:49:19 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.0ms)
+  Rendered layouts/_mainFooter.html.erb (0.3ms)
+  Rendered pages/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 52ms (Views: 51.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:49:19 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:49:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:49:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:49:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:49:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:49:19 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:49:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:49:19 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:49:19 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:50:57 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.1ms)
+  Rendered layouts/_mainFooter.html.erb (0.1ms)
+  Rendered pages/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 71ms (Views: 70.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:50:57 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:50:57 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:50:57 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:50:57 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:50:57 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:50:57 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:50:57 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:50:57 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:50:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:51:14 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.1ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 74ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:51:14 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:51:14 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:51:14 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:51:14 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:51:14 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:51:14 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:51:14 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:51:14 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:51:14 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:52:19 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.0ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 66ms (Views: 65.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:52:19 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:52:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:52:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:52:19 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:52:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:52:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:52:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:52:19 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:52:19 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:54:17 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.1ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 72ms (Views: 71.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:54:17 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:54:18 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:54:18 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:54:18 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:54:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:54:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:54:18 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:54:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:54:18 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:55:03 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.0ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 77ms (Views: 77.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:55:04 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:55:04 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:55:04 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:55:04 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:55:04 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:55:04 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:55:04 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:55:04 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:55:04 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 14:55:54 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.1ms)
+  Rendered layouts/_mainFooter.html.erb (0.1ms)
+  Rendered pages/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 78ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 14:55:54 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 14:55:54 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 14:55:55 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 14:55:55 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 14:55:55 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 14:55:55 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 14:55:55 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 14:55:55 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 14:55:55 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:03:14 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.0ms)
+  Rendered layouts/_mainFooter.html.erb (0.1ms)
+  Rendered pages/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 87ms (Views: 86.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:14 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:14 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:14 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:14 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:14 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:14 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:14 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:14 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:14 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:03:38 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.4ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 61ms (Views: 60.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:39 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:39 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:39 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:39 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:39 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:39 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:39 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:39 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:39 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:03:41 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.0ms)
+  Rendered layouts/_mainFooter.html.erb (0.1ms)
+  Rendered pages/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 57ms (Views: 56.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:41 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:41 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:41 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:03:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:41 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:03:41 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:04:02 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.0ms)
+  Rendered layouts/_mainFooter.html.erb (0.1ms)
+  Rendered pages/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 73ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:04:02 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:04:02 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:04:02 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:04:02 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:04:02 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:04:02 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:04:02 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:04:02 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:04:02 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:06:14 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.3ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 72ms (Views: 71.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:06:14 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:06:14 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:06:14 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:06:14 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:06:14 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:06:14 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:06:14 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:06:14 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:06:14 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:07:26 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.0ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 80ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:07:26 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:07:26 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:07:26 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:07:26 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:07:26 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:07:26 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:07:26 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:07:26 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:07:26 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:08:07 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.4ms)
+  Rendered layouts/_mainFooter.html.erb (0.1ms)
+  Rendered pages/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 73ms (Views: 72.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:08:07 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:08:07 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:08:07 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:08:07 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:08:07 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:08:07 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:08:07 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:08:07 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:08:07 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:47:53 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.1ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 65ms (Views: 64.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:47:53 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:47:53 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:47:53 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:47:53 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:47:53 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:47:53 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:47:53 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:47:53 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:47:53 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:48:20 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.3ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 83ms (Views: 83.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:48:20 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:48:20 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:48:20 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:48:20 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:48:20 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:48:20 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:48:20 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:48:20 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:48:20 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:51:02 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.3ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 57ms (Views: 56.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:51:02 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:51:02 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:51:02 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:51:02 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:51:02 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:51:02 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:51:02 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:51:02 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:51:02 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-10 15:51:18 -0400
+Processing by PagesController#index as HTML
+  Rendered layouts/_mainHeader.html.erb (0.3ms)
+  Rendered layouts/_mainFooter.html.erb (0.0ms)
+  Rendered pages/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 51ms (Views: 50.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/nug-grid.css?body=1" for 127.0.0.1 at 2015-03-10 15:51:18 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-03-10 15:51:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-10 15:51:18 -0400
+
+
+Started GET "/assets/steezy.css?body=1" for 127.0.0.1 at 2015-03-10 15:51:18 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-10 15:51:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-10 15:51:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-10 15:51:18 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-10 15:51:18 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-03-10 15:51:18 -0400
